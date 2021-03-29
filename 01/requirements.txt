@@ -10,7 +10,7 @@ httpie==2.0.0
 idna==2.9
 psycopg2==2.8.4
 pycodestyle==2.5.0
-Pygments==2.5.2
+Pygments==2.7.4
 pytz==2019.3
 requests==2.23.0
 sqlparse==0.3.0
